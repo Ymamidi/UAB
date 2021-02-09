@@ -6,6 +6,8 @@ const cors = require('cors');
 
 const app = express();
 
+//nnhhbb
+
 app.use(cors());
 
 mongoose.connect('mongodb+srv://MG:Yashu!1996@cluster0.nudtm.mongodb.net/test');
