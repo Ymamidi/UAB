@@ -1,7 +1,6 @@
 {
   "name": "uab",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -25,5 +24,7 @@
     "mongo": "^0.1.0",
     "mongod": "^2.0.0",
     "mongoose": "^5.11.13"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
